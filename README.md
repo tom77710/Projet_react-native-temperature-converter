@@ -1,4 +1,4 @@
-# react-native-temperature-converter
+# React-native : Temperature Converter
 
 Application avec Réact-Native.
 
